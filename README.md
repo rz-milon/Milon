@@ -1,2 +1,3 @@
-# Milon
-My personal repo
+### Hi there :wave:
+
+- :seedling: I am currently larnning web development
